@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Star Wars</string>
+    <string name="tab_text_1">Characters</string>
+    <string name="title_activity_character">CharacterDetailsActivity</string>
+
+    <string name="name">Name :</string>
+    <string name="species">Species :</string>
+    <string name="birth">Birth :</string>
+    <string name="death">Death :</string>
+</resources>
